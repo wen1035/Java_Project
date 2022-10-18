@@ -1,5 +1,5 @@
-# Java_Project
-### 用
+# ava概論課堂成果
+### 用 Java 撰寫小型專案
 
 
 * **Framework 框架層**
